@@ -1,6 +1,5 @@
 # MERN Stack School Management System
 
-![YouTube Thumbnail](https://github.com/yatunyi15075/Mern-School-Management-System/blob/master/frontend/src/assets/YouTube_Thumbnail.png)
 
 This is a School Management System built using the MERN (MongoDB, Express.js, React, Node.js) stack. The frontend is developed with React and Vite, with styling done using styled-components.
 
@@ -31,7 +30,6 @@ This is a School Management System built using the MERN (MongoDB, Express.js, Re
 
 1. **Clone the repository:**
 
-git clone https://github.com/yatunyi15075/mern-school-management-system.git
 
 
 2. **Install dependencies:**
@@ -73,7 +71,3 @@ Open your browser and navigate to `http://localhost:5173` for the frontend and `
 
 Contributions are welcome! Feel free to submit pull requests, bug reports, feature requests, or any suggestions to improve this project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-# Mern-School-Management-System
